@@ -5,7 +5,7 @@ import LF_field as lf
 import functions as f
 
 # Test particle tracing code adapted from D. Delcourt Fortran code
-# Uses Luhman-Friesen magnetic field model (1979, adapted to Mercury) and a Volland-Stern distribution for the electrostatic potential
+# Uses Luhmann-Friesen magnetic field model (1979, adapted to Mercury) and a Volland-Stern distribution for the electrostatic potential
 # This model is very simplified and will be replaced in future versions.
 
 # This script simulates charged‑particle trajectories in Mercury’s magnetosphere using the Boris–Buneman integrator
